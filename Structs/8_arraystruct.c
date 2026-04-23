@@ -21,6 +21,5 @@ int main(){
         nota_media = (turma[i].nota1 + turma[i].nota2 + turma[i].nota3) / 3;
         printf("Nome: %s\nNota Media %.2f\n", turma[i].nome, nota_media);
     }
-
     return 0;
 }

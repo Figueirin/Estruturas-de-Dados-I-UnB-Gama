@@ -6,8 +6,8 @@ Exercício 3 — Incremento indireto
 ○ multiplicar por 2
 ● Imprima o resultado final
 Atenção: Não acessar diretamente a variável (somente via ponteiro).
-
 */
+
 #include <stdio.h>
 
 int main(){
